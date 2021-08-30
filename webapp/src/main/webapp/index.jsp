@@ -1,1 +1,1 @@
-<h1> CICD WORKS NOW  </h1>
+<h1> CICD works now with remote artifact </h1>
